@@ -1,4 +1,4 @@
-# 2023INT-POO
+# 2023TADS-POO
 Material e Atividades da disciplina de POO 
 
 ## Tutorial Git
@@ -9,6 +9,6 @@ Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUk
 
 ## Abrir branch específico em uma instância do [binderhub]
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023INT-POO/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023TADS-POO/HEAD)
 
 
