@@ -7,7 +7,7 @@ Guia interativo aprendizado Git (https://learngitbranching.js.org/)
 
 Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUkhXD3Vw)
 
-## Abrir branch específico em uma instância do [binderhub]
+## Link para as atividades no [binderhub]
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023TADS-POO/HEAD)
 
