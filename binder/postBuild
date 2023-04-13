@@ -1,1 +1,1 @@
-conda install openjdk=11
+conda install beakerx --upgrade

@@ -1,6 +1,5 @@
-name: java
+name: beakerx
 channels:
   - conda-forge
 dependencies:
   - numpy
-  - openjdk=11
