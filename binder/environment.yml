@@ -3,5 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - maven
+  - jupyterlab
   - numpy
   
