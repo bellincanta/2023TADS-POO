@@ -1,1 +1,1 @@
-conda install beakerx --upgrade
+conda install beakerx 
