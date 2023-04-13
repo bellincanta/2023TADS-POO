@@ -2,7 +2,6 @@ name: beakerx
 channels:
   - conda-forge
 dependencies:
-  - openjdk=11.0.1
   - maven
   - numpy
   
