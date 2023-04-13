@@ -1,2 +1,2 @@
 conda install conda-forge jupyterlab=2
-conda install beakerx beakerx_kernel_java
+conda install beakerx 
